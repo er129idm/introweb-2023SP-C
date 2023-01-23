@@ -5,7 +5,7 @@
 ### Technology, Culture and Society
 ### Integrated Digital Media
 
-**DM-UY 2193 A Intro to Web Development**
+**DM-UY 2193 C Intro to Web Development**
 
 **Spring 2023 – Professor Effie J. Rieper**
 
