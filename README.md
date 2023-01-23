@@ -9,7 +9,7 @@
 
 **Spring 2023 – Professor Effie J. Rieper**
 
-*Tuesday + Thursday 10:00AM EST - 10:00PM EST*
+*Tuesday + Thursday 10:00AM EST - 12:00PM EST*
 
 *To contact professor: er129@nyu.edu*
 
