@@ -5,6 +5,7 @@ body {
   font-size: 2vmin;
 }
 
+
 .mainContainer {
   display: flex;
   flex-direction: column;
@@ -63,17 +64,10 @@ h2 {
 }
 
 .imgSubtitleContainer img {
-  width: 98%;
+  width: 100%;
   height: 400px;
   object-fit: cover;
-  /* overflow: hidden; */
 }
-
-
-
-/* .imgSubtitleContainer + .imgSubtitleContainer {
-  margin-left: 10px;
-} */
 
 .twoColumnContainer {
   display: flex;
